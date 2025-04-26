@@ -1,0 +1,1 @@
+Create a new env with python 3.8, `k_means_constrained` and `timm`.

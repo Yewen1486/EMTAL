@@ -1,0 +1,6 @@
+pyyaml
+scipy
+pandas
+ipdb
+tqdm
+matplotlib
